@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/momo/Desktop/Assignment3/saved_model/model1.ckpt-1000"
+all_model_checkpoint_paths: "/Users/momo/Desktop/Assignment3/saved_model/model1.ckpt-1000"
