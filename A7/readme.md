@@ -1,7 +1,5 @@
 # Text Generation
 
-This folder contains code for third problem in fourth Programming Assignment of CS671-Deep Learning and its Applications, offered at IIT Mandi in Feb-May, 2019, namely Text Generation.
-
 ## Problem Statement
 
 Given a text file, in our case a famous novel written by Jane Austen, Pride and Prejudice, our RNN model generates words after getting a seed sequence of words.
