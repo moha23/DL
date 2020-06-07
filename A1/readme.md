@@ -1,6 +1,6 @@
 # Layer API - A Simple Neural Network
 
-The folder has code for simple neural network for classifying MNIST dataset named 3.ipynb (notebook) and 3.py (python). Code for classifying line dataset is named 3-linedataset.ipynb. It has a folder for saved model of MNIST trained network. Data folder has the MNIST dataset as well as lines dataset. A report is also included showing detailed experiments conducted. 
+This folder has code for simple neural network for classifying MNIST dataset named 3.ipynb (notebook) and 3.py (python). Code for classifying line dataset (created as part of another assignment and provided in **data** folder) is named 3-linedataset.ipynb. Saved model weights of MNIST trained network are in **saved-model** folder. Data folder has the MNIST dataset as well as lines dataset. A report is also included showing experiments conducted. 
 
 
 ### Prerequisites
