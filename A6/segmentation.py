@@ -213,10 +213,10 @@ def perform_test(model, Test_Data_path, Test_Mask_path, img_row_size, img_col_si
 			scipy.misc.imsave('predicted_mask/predited_img_no_' + str(each_test_case) + '.jpg', temp)
 
 def main():
-	Data_path = "/home/ada/Preethi/DL/Assignments/Ass_3/Q2/Data"
-	Mask_path = "/home/ada/Preethi/DL/Assignments/Ass_3/Q2/Mask"
-	Test_Data_path = "/home/ada/Preethi/DL/Assignments/Ass_3/Q2/Test_Data"
-	Test_Mask_path = "/home/ada/Preethi/DL/Assignments/Ass_3/Q2/Test_Mask"
+	Data_path = "/path/to/Data"
+	Mask_path = "/path/to/Mask"
+	Test_Data_path = "/path/to/Test_Data"
+	Test_Mask_path = "/path/to/Test_Mask"
 
 	''' Make model '''
 	# input has to be a multiple of 2**3 because of the number of downsampling and upsampling layers = 3.
